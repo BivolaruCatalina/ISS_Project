@@ -1,0 +1,25 @@
+
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¬§Âøÿÿÿÿ
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Õüþúÿÿÿÿ
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(…‹¾æúÿÿÿÿ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(°’©‡þÿÿÿÿ
+C
+java:S1604U"(Make this anonymous inner class a lambda(±ì®‚ýÿÿÿÿ
+>
+java:S1604]"(Make this anonymous inner class a lambda(”ÖÔ
+>
+java:S1604e"(Make this anonymous inner class a lambda(»íÔ”
+W
+java:S4973z"<Strings and Boxed types should be compared using "equals()".(‡ŽÊ¡øÿÿÿÿ
+h	java:S116+"SRename this field "Employee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÒ©Ø
+j
+java:S1845+"TRename field "Employee" to prevent any misunderstanding/clash with field "employee".(ŒÒ©Ø
+V	java:S125n"<This block of commented-out lines of code should be removed.(‡¬Ùåþÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8þÓ¬òˆ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÿÓ¬òˆ1

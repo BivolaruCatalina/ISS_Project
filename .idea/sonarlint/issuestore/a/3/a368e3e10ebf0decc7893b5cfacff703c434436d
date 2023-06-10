@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á×Æî
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ­¨©
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ­¨©
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğ¨·øÿÿÿÿ
+k	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğ¨·øÿÿÿÿ
+m	java:S116"XRename this field "username_post" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‘¢
+Q	java:S125'"<This block of commented-out lines of code should be removed.(†€éˆ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(†€éˆ
+a
+java:S1128"DRemove this unused import 'com.example.dailytasks2.domain.Employee'.(ĞŞåÃ8ñõñôˆ1
+d
+java:S1128"BRemove this unused import 'com.example.dailytasks2.domain.Entity'.(íÍÁ‚üÿÿÿÿ8ñõñôˆ1

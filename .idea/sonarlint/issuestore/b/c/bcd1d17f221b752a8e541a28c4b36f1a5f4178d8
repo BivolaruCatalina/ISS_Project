@@ -1,0 +1,19 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ø›§ã8Œ‘æˆ1
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ğşk8Œ‘æˆ1
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(¾İµÙüÿÿÿÿ8ñÅ‘æˆ1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥ÒÎ§8ñÅ‘æˆ1
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·ú•æˆ1
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·ú•æˆ1
+g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·ú•æˆ1
+g	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·ú•æˆ1
+f
+java:S1192-"IDefine a constant instead of duplicating this literal "managers" 3 times.(ïı‚À8ô¡ÿíˆ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ˜ãÌùÿÿÿÿ8¸ú•æˆ1
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ˜ãÌùÿÿÿÿ8¸ú•æˆ1
+|
+java:S4165^"`Remove this useless assignment; "ok" already holds the assigned value along all execution paths.(ŸÚÁw8¾Åííˆ1
+a
+java:S1128"DRemove this unused import 'com.example.dailytasks2.domain.Employee'.(ĞŞåÃ8• €¡Š1
+@
+java:S1128"Remove this duplicated import.(ÌºÔîûÿÿÿÿ8•‘æˆ1

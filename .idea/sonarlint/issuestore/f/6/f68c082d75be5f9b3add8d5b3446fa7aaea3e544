@@ -1,0 +1,26 @@
+
+o
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÒ…
+t
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï¹´¥úÿÿÿÿ
+o
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶­Ãä
+t
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹Œ¸àøÿÿÿÿ
+o
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ÏÓ
+o
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÆº÷
+>
+java:S1604v"(Make this anonymous inner class a lambda(îáÛ
+D
+java:S1604€"(Make this anonymous inner class a lambda(Ş¢¦¶ıÿÿÿÿ
+p	java:S116*"VRename this field "ManagerPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¤òıÿÿÿÿ
+i
+java:S6204œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã¤£’
+Q
+java:S6213¬":Rename this variable to not match a restricted identifier.(÷í£î
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¬¤€¡Š1
+
+java:S1128"]Remove this unused import 'com.example.dailytasks2.utils.CollectionUtils.streamFromIterable'.(±¸½ãúÿÿÿÿ8¬¤€¡Š1

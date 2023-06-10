@@ -1,0 +1,24 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÛÁÓ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğ¨·øÿÿÿÿ
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğ¨·øÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öñˆ¯şÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öñˆ¯şÿÿÿÿ
+m	java:S116"XRename this field "username_post" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‘¢
+V	java:S125"<This block of commented-out lines of code should be removed.(‚í‹İıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Á·Óğ
+V	java:S125"<This block of commented-out lines of code should be removed.(şÿò“üÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(†€éˆ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(·œ„‰
+R	java:S125…"<This block of commented-out lines of code should be removed.(†€éˆ
+]
+java:S1128"BRemove this unused import 'com.example.dailytasks2.domain.Entity'.(íÍÁ‚üÿÿÿÿ
+3
+java:S1128"Remove this duplicated import.(õÖâ
+
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(©šğüÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'com.example.dailytasks2.validators.Validator'.(ˆ‰ë
+@
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê

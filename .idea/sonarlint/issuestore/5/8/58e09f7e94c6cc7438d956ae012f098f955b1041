@@ -1,0 +1,12 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤´ÿÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾ÿ€ìùÿÿÿÿ
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+c
+java:S1192$"FDefine a constant instead of duplicating this literal "tasks" 3 times.(ñİôÂ8…½€îˆ1
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¥×
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¥×
+a
+java:S1128"DRemove this unused import 'com.example.dailytasks2.domain.Employee'.(ĞŞåÃ8¼¦€¡Š1
+3
+java:S1128"Remove this duplicated import.(õÖâ
